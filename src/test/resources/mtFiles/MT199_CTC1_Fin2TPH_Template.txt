@@ -1,0 +1,10 @@
+{1:F01HSHNDEHHAXXX1329403002}{2:O199<Insert_Time_Date>TRCKCHZZZVAL116924<Insert_Time_Date>0713N}{3:{121:b7eae8dd-fa5f-4b4b-8021-945c1907134d}}{4:
+:20:TK0000000000000<Insert_Ref>
+:21:TK0000000000000<Insert_Ref>
+:79://<Insert_Date>0501+0100
+//ACCC
+//IRVTUS3NXXX
+//<Insert_Currency><Insert_Amount>
+//:71F:USD00000,00
+//:71F:USD0,0
+-}{5:}

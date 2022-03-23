@@ -1,0 +1,26 @@
+{1:F01HSHNDEHHAXXX0000000000}{2:O103<Insert_Time_Date>DENITRISAXXX755191<Insert_Time_Date>1302N}{3:{108:OYUSP13N0CDIR3U7}{121:aadebfbd-ebfc-4adf-9fcd-adcbcfeeaefb}}{4:
+:20:<Insert_Ref>
+:23B:CRED
+:32A:<Insert_Date><Insert_Currency><Insert_Amount>
+:33B:<Insert_Currency><Insert_Amount>
+:50F:/TR290013400001565469400003
+1/International Im- u. Export
+1/Absender SPA ve. Tic.Al
+2/Baruthane Caddesi 82
+3/TR/34377 Sisli Istanbul
+:52A:DENITRIS
+:54A:IRVTUS3N
+:57A:HSHNDEHH
+:59:/DE47210500001001429921
+Land- u. See-Transport KG
+Robert Leinweber GmbH Co.
+Pollhornweg 15
+21107 Hamburg
+:70:TFAZVABRE1REG2-maximale Belegung
+Auftraggeber und Verwendungszweck
+12345678901234567890123456789012345
+12345678901234567890123456789012345
+:71A:SHA
+:71F:USD10,50
+-}
+
